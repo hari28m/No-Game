@@ -18,7 +18,7 @@ public class ATM {
                 int choice = sc.nextInt();
                 switch (choice) {
                     case 1:
-                        System.out.print("Enter money to be withdrawn:");
+                        System.out.print("Enter Money to be withdrawn:");
                         // get the withdrawl money from user
                         withdraw = sc.nextInt();
                         // check whether the balance is greater than or equal to the withdrawal amount
