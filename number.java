@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// number gaming 
+// number gaming  java project
 public class ATM {
     public static void main(String args[]) {
         // declare and initialize balance, withdraw, and deposit
